@@ -3,7 +3,7 @@ Simple HTTP Server written in Python using sockets API just to have fun.
 
 # Features
 - Asynchronous client handling
-- 2 File formats support: txt and html
+- 2 file formats support: txt and html
 - Automatically requests index.html if no file provided
 - If no file found, throws `not_found.html` page
 
